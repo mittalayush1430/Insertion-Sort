@@ -11,4 +11,4 @@ arr = []
 for i in range(num):
     arr.append(int(input(f"Enter the element[{i+1}] of the array:")))
 insertion_sort(arr)
-print("Array in ascending order is: " + str(arr))
+print("Array in Descending order is: " + str(arr))
