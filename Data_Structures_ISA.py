@@ -1,3 +1,5 @@
+#function for insertion sort in ascending order!!
+
 def insertion_sort(arr) :
     for i in range(1,len(arr)) :
         x = arr[i]
